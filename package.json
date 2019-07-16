@@ -40,6 +40,6 @@
     "url": "https://github.com/abbasfreestyle"
   },
   "peerDependencies": {
-    "react-native-video": "*"
+    "react-native-video": "2.3.0"
   }
 }
